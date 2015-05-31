@@ -1,0 +1,7 @@
+\documentclass{scrartcl}
+\usepackage[utf8]{inputenc}
+\usepackage[ngerman]{babel}
+\title{Test}
+\begin{document}
+\maketitle
+\end{document}
